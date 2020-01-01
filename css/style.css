@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  height: 960px;
+  margin: auto;
+  outline: 2px solid #000;
+  position: relative;
+  top: 30px;
+  width: 960px;
+}
